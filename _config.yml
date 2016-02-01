@@ -1,0 +1,36 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               '@Cruor99'
+tagline:             Programming and stuff
+url:                 ""
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+pages_list:
+  About:            '/about'
+  Archive:          '/archive'
+  Feed:             '/atom.xml'
+  Discussion:       '/discussion'
+  Faq:              '/faq'
+  
+# About/contact
+author:
+  name:              Kjetil Andre Liknes
+  url:               https://twitter.com/cruor99
+  email:             kliknes@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:				 https://github.com/cruor99/
