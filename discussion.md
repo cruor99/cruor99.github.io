@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ideas Discussion
-comments: True
+comments: False
 ---
 
 Get your ideas down here!!  
