@@ -4,8 +4,6 @@ layout: post
 ---
 
 
-## What this post is about
-
 I write this post as a way to bring about my feelings on a minor issue I have
 had in deciding what to focus on in regards to frameworks used for
 cross-platform/hybrid mobile development in a few situations. I had mulled
