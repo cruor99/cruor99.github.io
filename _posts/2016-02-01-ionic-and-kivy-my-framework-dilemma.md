@@ -114,6 +114,8 @@ all! Please contact me on Twitter [@cruor99](https://twitter.com/Cruor99) if
 you have had any similar thoughts, or simply think I should deal with it - or
 anything in between!
 
-Peace, 
+Peace,
+ 
 Kjetil A. Liknes
+
 a.k.a Cruor
