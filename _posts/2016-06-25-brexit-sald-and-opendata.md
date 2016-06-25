@@ -43,7 +43,7 @@ My goal with this blog post was to show the importance of taking a breather, whe
 
 Taking that extra moment to look at the data may be the difference of breaking news, and making a very public mistake.
 
-If the 350k *myth* had spread and gotten a foothold, it might create even larger resentment between the British people and the rest of europe - in a time where it needs to come together for what comes next.
+If the 350k *myth* had spread and gotten a foothold, it might have created even larger resentment between the British people and the rest of europe - in a time where it needs to come together for what comes next.
 
 As a final fun fact, did you know that **2015** people from the *Vatican City* have signed this petition? This is also interesting, because it only has [800 people living there, with only 450 with citizenship](http://www.vaticanstate.va/content/vaticanstate/en/stato-e-governo/note-generali/popolazione.html)
 
