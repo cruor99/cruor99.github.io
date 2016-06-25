@@ -18,6 +18,8 @@ The UK government is phenomenal in its use of Open Data, and as such - every sin
 
 In this, we can find the following result: {"name":"United Kingdom","code":"GB","signature_count":361698}
 This has caused [somewhat of a stir](https://twitter.com/Sargon_of_Akkad/status/746765832223604736) in pro-brexit camps, as it seems to point to only 361 thousand britons have signed this petition, among 2.3 million! **What an outrage**
+![Sargon of Akkad tweet](http://puu.sh/pFRt9/f526c3a0e5.png
+)
 But is that truly so?
 
 I found this an interesting result, so I [wrote a little tool](https://github.com/cruor99/UK-parliament-petitions-by-country) to parse the json, and give it to me in a readable format.
