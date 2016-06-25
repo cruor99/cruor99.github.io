@@ -7,8 +7,8 @@ Today is the 25th of june, two days after the British people bravely voted to le
 the European union. I will not inject any of my personal feelings or leanings as to the
 referendum in this post, but I will note that I was extremely pleased with the result.
 
-The reson I write this blogpost, is because I noticed something came up on Twitter, after
-a certain [petition became popular](https://petition.parliament.uk/petitions/131215)
+The reson I write this blogpost is because I noticed something came up on Twitter after
+a certain [petition became popular:](https://petition.parliament.uk/petitions/131215)
 
 ![Petition for second referendum](http://puu.sh/pFQMK/3b908f1632.png)
 
