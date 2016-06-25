@@ -15,7 +15,7 @@ a certain [petition became popular:](https://petition.parliament.uk/petitions/13
 
 What is interesting, and what I want to explore, is what has appeared in the discussion around it.
 
-The UK government is phenomenal in its use of Open Data and as such, every single petition has a very detailed [json data set](https://petition.parliament.uk/petitions/131215)
+The UK government is phenomenal in its use of Open Data and as such, every single petition has a very detailed [json data set](https://petition.parliament.uk/petitions/131215.json)
 
 In this, we can find the following result: {"name":"United Kingdom","code":"GB","signature_count":361698}
 This has caused [somewhat of a stir](https://twitter.com/Sargon_of_Akkad/status/746765832223604736) in pro-brexit camps, as it seems to point to only 361 thousand britons having signed this petition, among 2.3 million! **What an outrage**
