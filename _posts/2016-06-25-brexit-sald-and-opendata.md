@@ -1,5 +1,5 @@
 ---
-title: Brexit, salt, petitions and open data!
+title: Brexit, Salt, Petitions and Open Data!
 layout: post
 ---
 
